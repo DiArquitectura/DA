@@ -1,0 +1,111 @@
+
+*{
+
+	margin: 0px;
+	padding: 0px;
+}
+
+.todo{
+
+width: 100%;
+height: 650px;
+}
+
+
+.banner{
+width: 100%;
+height:100px;
+margin: 0px;
+padding: 0px;
+clear: both;
+
+}
+
+#imgbanner{
+	width: 100%;
+	
+}
+
+.Gifs {
+	margin: 0px;
+	padding: 0px;
+	width: 50%;
+	height:auto;
+	float: right;
+	
+	/*
+	position: relative;
+	left: 50%;
+	top: 70px;
+	*/
+
+}
+
+#gif {
+	
+	margin: 0%;
+	padding: 0%;
+	position: inherit;
+	z-index: 1;
+
+	width: 100%;
+	height: 100%;
+
+	
+
+}
+
+.maintext {
+	
+	/*position: relative;
+	left:0%; 
+	top: -382px;*/
+	
+	padding-top: 80pt;
+	float: left;
+	width: 50%;
+	height: 25vw;
+	text-align: center;
+}
+h1 {
+	font-family: 'Anton', sans-serif;
+	font-size: 4vw; 
+}
+h2 {
+	font-family: 'Pacifico', cursive;
+	font-size: 2vw;
+}
+#insta {
+	width: 10vw;
+}
+
+.foot {
+	background-color: rgb(111, 119, 133);
+	clear: both;
+	width: 100%;
+	height: 6%;
+	position: relative;
+	bottom: -2%
+	/*column-count: 4;
+	column-width: 25%;
+	column-fill: auto;*/
+}
+
+
+li{
+	list-style: none;
+	content: "\2022";
+}
+#p1{
+	font-size: 15pt;
+}
+
+#p2{
+	font-size: 10pt;
+}
+
+#link {
+	color: black;
+	/*text-decoration: none; */
+}
+
