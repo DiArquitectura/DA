@@ -111,8 +111,15 @@ li{
 @media screen and (max-width: 800px) {
 	.Gifs {
 		width: 100%;
-	
+		display: flex;
+		align-items: center;
+		justify-content: center;
 		
+	}
+	
+	
+	#gif {
+		padding-right: 20%; 
 	}
 
 	.maintext {
