@@ -120,6 +120,7 @@ li{
 	
 	#gif {
 		padding-right: 20%; 
+		box-sizing: content-box;
 	}
 
 	.maintext {
